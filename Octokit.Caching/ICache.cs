@@ -8,5 +8,6 @@ namespace Octokit.Caching
         Task SetAsync<T>(string key, T value);
 
         Task ClearAsync();
+		Task Reset();
     }
 }
