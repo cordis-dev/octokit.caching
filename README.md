@@ -1,4 +1,4 @@
-Octokit.Caching [![codefactor.io](https://staging.codefactor.io:8443/repository/github/cordis-dev/octokit.caching/badge)](https://staging.codefactor.io:8443/repository/github/cordis-dev/octokit.caching)
+Octokit.Caching [![codefactor.io](https://www.codefactor.io/repository/github/cordis-dev/octokit.caching/badge)](https://www.codefactor.io/repository/github/cordis-dev/octokit.caching)
 ===============
 
 A decorator for [Octokit.NET][octokit]'s `IHttpClient` that adds support for the caching of results and respecting etags.
